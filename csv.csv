@@ -1,0 +1,10 @@
+sl_no,gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,workex,etest_p,specialisation,mba_p,status,salary
+1,M,67,Others,91,Others,Commerce,58,Sci&Tech,No,55,Mkt&HR,58.8,Placed,270000
+2,M,79.33,Central,78.33,Others,Science,77.48,Sci&Tech,Yes,86.5,Mkt&Fin,66.28,Placed,200000
+3,M,65,Central,68,Central,Arts,64,Comm&Mgmt,No,75,Mkt&Fin,57.8,Placed,250000
+4,M,56,Central,52,Central,Science,52,Sci&Tech,No,66,Mkt&HR,59.43,Not Placed,
+5,M,85.8,Central,73.6,Central,Commerce,73.3,Comm&Mgmt,No,96.8,Mkt&Fin,55.5,Placed,425000
+6,M,55,Others,49.8,Others,Science,67.25,Sci&Tech,Yes,55,Mkt&Fin,51.58,Not Placed,
+7,F,46,Others,49.2,Others,Commerce,79,Comm&Mgmt,No,74.28,Mkt&Fin,53.29,Not Placed,
+8,M,82,Central,64,Central,Science,66,Sci&Tech,Yes,67,Mkt&Fin,62.14,Placed,252000
+9,M,73,Central,79,Central,Commerce,72,Comm&Mgmt,No,91.34,Mkt&Fin,61.29,Placed,231000
